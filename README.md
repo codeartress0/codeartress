@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# codeartress
+codeartress
+>>>>>>> db7776b6ea9db1f1fa7ee26d6bf1f1873aca28e2
